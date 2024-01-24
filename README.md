@@ -1,6 +1,6 @@
 # Geolocation App
 
-![App Screenshot](screenshot.png)
+![Screenshot 2024-01-23 173909](https://github.com/Sujith-Rajan/geoLocation/assets/140044515/e7fe01e0-0744-436c-83fc-49561a840537)
 
 ## Description
 
